@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/modules/!svn/ver/2467/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/db/hibernate
+END
+HibernateBillingDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/modules/!svn/ver/2467/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/db/hibernate/HibernateBillingDAO.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/modules/!svn/ver/2727/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/businesslogic
+END
+InsurancePolicyUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/modules/!svn/ver/2618/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/businesslogic/InsurancePolicyUtil.java
+END
+PatientBillUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/modules/!svn/ver/2727/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/businesslogic/PatientBillUtil.java
+END
+InsuranceUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/modules/!svn/ver/2618/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/businesslogic/InsuranceUtil.java
+END
+FacilityServicePriceUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/modules/!svn/ver/2200/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/businesslogic/FacilityServicePriceUtil.java
+END
+RecoveryUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/modules/!svn/ver/2200/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/businesslogic/RecoveryUtil.java
+END
+MohBillingTagUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/modules/!svn/ver/2727/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/businesslogic/MohBillingTagUtil.java
+END
+BillingConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/modules/!svn/ver/2618/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/businesslogic/BillingConstants.java
+END
+ReportsUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/modules/!svn/ver/2467/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/businesslogic/ReportsUtil.java
+END

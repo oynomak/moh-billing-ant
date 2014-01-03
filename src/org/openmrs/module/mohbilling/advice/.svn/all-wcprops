@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/modules/!svn/ver/2618/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/advice
+END
+EncounterServiceAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/modules/!svn/ver/2618/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/advice/EncounterServiceAdvice.java
+END
+PatientServiceAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/modules/!svn/ver/2348/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/advice/PatientServiceAdvice.java
+END

@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common
+END
+openmrs-api-1.6.2.12911-dev.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/openmrs-api-1.6.2.12911-dev.jar
+END
+jsp-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/jsp-api.jar
+END
+commons-io-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/commons-io-1.4.jar
+END
+activation.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/activation.jar
+END
+jta.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/jta.jar
+END
+hibernate325-mod.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/hibernate325-mod.jar
+END
+commons-collections-3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/commons-collections-3.2.jar
+END
+web-openmrs-api-1.6.2.12911-dev.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/web-openmrs-api-1.6.2.12911-dev.jar
+END
+junit-4.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/junit-4.4.jar
+END
+hapi-0.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/hapi-0.5.jar
+END
+commons-lang-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/commons-lang-2.4.jar
+END
+simple-xml-1.6.1-mod.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/simple-xml-1.6.1-mod.jar
+END
+c3p0-0.9.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/c3p0-0.9.1.jar
+END
+config-1.2.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/config-1.2.dtd
+END
+liquibase-1.9.4-mod.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/liquibase-1.9.4-mod.jar
+END
+slf4j-api-1.5.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/slf4j-api-1.5.6.jar
+END
+slf4j-log4j12-1.5.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/slf4j-log4j12-1.5.6.jar
+END
+commons-logging-1.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/commons-logging-1.0.4.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/dom4j-1.6.1.jar
+END
+tests-openmrs-api-1.6.2.12911-dev.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/tests-openmrs-api-1.6.2.12911-dev.jar
+END
+jstl-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/jstl-1.1.jar
+END
+taglibs-standard-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/taglibs-standard-1.1.jar
+END
+dwr-205.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/dwr-205.jar
+END
+ant-contrib-1.0b2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/ant-contrib-1.0b2.jar
+END
+asm-1.5.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/asm-1.5.3.jar
+END
+ehcache-1.2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/ehcache-1.2.4.jar
+END
+log4j-1.2.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/log4j-1.2.15.jar
+END
+antlr_2.7.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/antlr_2.7.6.jar
+END
+dbunit-2.4.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/dbunit-2.4.4.jar
+END
+mail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/mail.jar
+END
+hsqldb-1.8.0.10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/hsqldb-1.8.0.10.jar
+END
+catalina.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/catalina.jar
+END
+cglib-2.1_3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/cglib-2.1_3.jar
+END
+velocity-1.6-beta1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/velocity-1.6-beta1.jar
+END
+spring-2.5.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/spring-2.5.6.jar
+END
+xmlunit-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/xmlunit-1.2.jar
+END
+spring-webmvc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/spring-webmvc.jar
+END
+logic-0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/logic-0.4.jar
+END
+commons-pool-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/commons-pool-1.2.jar
+END
+xercesImpl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/xercesImpl.jar
+END
+logic-0.4.omod
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/logic-0.4.omod
+END
+servlet-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/servlet-api.jar
+END
+spring-test.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/modules/!svn/ver/2198/moh-billing/branches/1.6.x/lib-common/spring-test.jar
+END

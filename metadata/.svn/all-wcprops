@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/modules/!svn/ver/2727/moh-billing/branches/1.6.x/metadata
+END
+ServiceCategory.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/modules/!svn/ver/2199/moh-billing/branches/1.6.x/metadata/ServiceCategory.hbm.xml
+END
+messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/modules/!svn/ver/2199/moh-billing/branches/1.6.x/metadata/messages_fr.properties
+END
+BillableService.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/modules/!svn/ver/2199/moh-billing/branches/1.6.x/metadata/BillableService.hbm.xml
+END
+Recovery.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/modules/!svn/ver/2199/moh-billing/branches/1.6.x/metadata/Recovery.hbm.xml
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/modules/!svn/ver/2199/moh-billing/branches/1.6.x/metadata/log4j.xml
+END
+PatientServiceBill.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/modules/!svn/ver/2199/moh-billing/branches/1.6.x/metadata/PatientServiceBill.hbm.xml
+END
+FacilityServicePrice.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/modules/!svn/ver/2199/moh-billing/branches/1.6.x/metadata/FacilityServicePrice.hbm.xml
+END
+InsuranceRate.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/modules/!svn/ver/2199/moh-billing/branches/1.6.x/metadata/InsuranceRate.hbm.xml
+END
+Insurance.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/modules/!svn/ver/2199/moh-billing/branches/1.6.x/metadata/Insurance.hbm.xml
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/modules/!svn/ver/2727/moh-billing/branches/1.6.x/metadata/config.xml
+END
+BillPayment.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/modules/!svn/ver/2199/moh-billing/branches/1.6.x/metadata/BillPayment.hbm.xml
+END
+Beneficiary.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/modules/!svn/ver/2724/moh-billing/branches/1.6.x/metadata/Beneficiary.hbm.xml
+END
+moduleApplicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/modules/!svn/ver/2727/moh-billing/branches/1.6.x/metadata/moduleApplicationContext.xml
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/modules/!svn/ver/2727/moh-billing/branches/1.6.x/metadata/messages.properties
+END
+InsurancePolicy.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/modules/!svn/ver/2199/moh-billing/branches/1.6.x/metadata/InsurancePolicy.hbm.xml
+END
+PatientBill.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/modules/!svn/ver/2199/moh-billing/branches/1.6.x/metadata/PatientBill.hbm.xml
+END
+sqldiff.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/modules/!svn/ver/2725/moh-billing/branches/1.6.x/metadata/sqldiff.xml
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/modules/!svn/ver/2727/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/model
+END
+BillPayment.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/modules/!svn/ver/2200/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/model/BillPayment.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/modules/!svn/ver/2467/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/model/Category.java
+END
+InsurancePolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/modules/!svn/ver/2200/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/model/InsurancePolicy.java
+END
+PatientBill.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/modules/!svn/ver/2727/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/model/PatientBill.java
+END
+InsuranceRate.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/modules/!svn/ver/2200/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/model/InsuranceRate.java
+END
+Insurance.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/modules/!svn/ver/2200/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/model/Insurance.java
+END
+RecoveryReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/modules/!svn/ver/2200/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/model/RecoveryReport.java
+END
+InsuranceCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/modules/!svn/ver/2467/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/model/InsuranceCategory.java
+END
+FacilityServicePrice.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/modules/!svn/ver/2200/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/model/FacilityServicePrice.java
+END
+PatientServiceBill.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/modules/!svn/ver/2200/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/model/PatientServiceBill.java
+END
+Recovery.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/modules/!svn/ver/2200/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/model/Recovery.java
+END
+Beneficiary.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/modules/!svn/ver/2200/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/model/Beneficiary.java
+END
+BillableService.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/modules/!svn/ver/2200/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/model/BillableService.java
+END
+ServiceCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/modules/!svn/ver/2200/moh-billing/branches/1.6.x/src/org/openmrs/module/mohbilling/model/ServiceCategory.java
+END
